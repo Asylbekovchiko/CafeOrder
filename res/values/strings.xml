@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CafeOrder</string>
+    <string name="edit">Введите имя:</string>
+    <string name="editP">Введите пароль:</string>
+    <string name="butotn">Создать заказ!</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="warning">Добро пожаловать!</string>
+    <string name="tea">Чай</string>
+    <string name="coffe">Кофе</string>
+    <string name="hellotext">Привет что будете заказывать?</string>
+    <string name="additions">Что вы хотите добавить?</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="orderButton">Заказать</string>
+    <string name="naemhello">Привет %s! Что будешь заказывать?</string>
+    <string name="addtotea">Что вы хотите дбавить в %s?</string>
+
+
+    <string-array name="options_tea">
+        <item>Зеленый</item>
+        <item>Черный</item>
+        <item>Красный</item>
+
+    </string-array>
+
+    <string-array name="options_coffee">
+        <item>Американо</item>
+        <item>Латте</item>
+        <item>Капучино</item>
+
+    </string-array>
+</resources>
